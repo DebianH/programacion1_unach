@@ -1,0 +1,10 @@
+Nike Air Max 90,139.99
+Nike Air Force 1,129.99
+Nike Dunk Low,119.99
+Nike Blazer Mid,109.99
+Nike Air Jordan 1,159.99
+Nike ZoomX Vaporfly,249.99
+Nike React Infinity,159.99
+Nike Pegasus 40,129.99
+Nike LeBron 20,199.99
+Nike Metcon 9,149.99
